@@ -1,6 +1,6 @@
-# FisioThais-Landing-Page-
+# modelo-de-Landing-Page-
 
-Landing page developed for a physiotherapy professional.
+Landing page developed a professional.
 
 ## Technologies
 
